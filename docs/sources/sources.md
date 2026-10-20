@@ -20,6 +20,7 @@ If you recognize your work here and it is not properly attributed, please open a
 | `langgraph`                 | [LangGraph](https://github.com/langchain-ai/langgraph)                     | MIT            | Framework guides.             |
 | `react-patterns`            | [React Docs](https://react.dev/)                                           | CC-BY          | Official patterns.            |
 | `apify-tiktok-scraper` | [harshmaur/apify-tiktok-scraper](https://github.com/harshmaur/apify-tiktok-scraper) | MIT | Community skill by the Actor author for TikTok video, profile and comment research. |
+| `apify-linkedin-jobs-scraper` | [harshmaur/apify-linkedin-jobs-scraper](https://github.com/harshmaur/apify-linkedin-jobs-scraper) | MIT | Community skill by the Actor author for LinkedIn job searches, salary and recruiter data. |
 | `apify-reddit-scraper`      | [harshmaur/apify-reddit-scraper-skill](https://github.com/harshmaur/apify-reddit-scraper-skill) | MIT | Community skill by the Actor author; also published in [apify/awesome-skills](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper). |
 | **All Official Skills**     | [Anthropic / Google / OpenAI / Microsoft / Supabase / Apify / Vercel Labs] | Proprietary    | Usage encouraged by vendors.  |
 
